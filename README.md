@@ -17,3 +17,5 @@ I'm Saddek, a 21 years old web developer from ALGERIA.
 
 ## Contact
 - [@kakenchoupe](https://instagram.com/kakenchoupe) on Instagram
+- [@kakenchoupe](https://twitter.com/kakenchoupe) on Twitter
+- [@sdxrnx](https://t.me/sdxrnx) on Telegram
