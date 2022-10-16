@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
-<!--
-**SaddexRnx/SaddexRnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Saddek, a 21 years old web developer from ALGERIA.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 HTML, JavaScript, PHP
+- ⚙️ React ... Learning
+- 👁️ CSS 
+- 💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ... Saddly Looking fOR a job
-- 🌱 I’m currently learning ... FLUTTER AND DART
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@kakenchoupe](https://instagram.com/kakenchoupe) on Instagram
