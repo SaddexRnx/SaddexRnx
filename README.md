@@ -8,12 +8,13 @@ I'm Saddek, a 21 years old web developer from ALGERIA.
 ## Skills
 - 👨‍💻 HTML, JavaScript, PHP
 - ⚙️ React ... Learning
-- 👁️ CSS 
+- 👁️ CSS - UI/UX DESIGNER
 - 💽 MySQL, SQL, Mongo
 
 ## Learning
 - Mobile App DEV
 - Flutter / Dart
+- BlockChain
 
 ## Contact
 - [@kakenchoupe](https://instagram.com/kakenchoupe) on Instagram
