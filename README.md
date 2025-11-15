@@ -5,6 +5,4 @@
 ## Hey! 👋
 I'm Saddek. 
 ## Contact
-- [@kakenchoupe](https://instagram.com/kakenchoupe) on Instagram
-- [@kakenchoupe](https://twitter.com/kakenchoupe) on Twitter
-- [@sdxrnx](https://t.me/sdxrnx) on Telegram
+- [@sdxrnx](https://t.me/saddex.x) on Telegram
