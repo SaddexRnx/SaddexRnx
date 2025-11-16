@@ -5,4 +5,4 @@
 ## Hey! 👋
 I'm Saddek. 
 ## Contact
-- [@sdxrnx](https://t.me/saddex.x) on Telegram
+- [@Saddex](https://t.me/saddex.x) on Telegram
