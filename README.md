@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/SaddexRnx/SaddexRnx/blob/main/name.svg" alt="Saddek Renane" />
+  <img src="https://github.com/SaddexRnx/SaddexRnx/blob/main/name.svg" alt="Saddex" />
 </h1>
 
 ## Hey! 👋
